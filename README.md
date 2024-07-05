@@ -7,8 +7,8 @@
 - 💬 Ask me about ...JavaScript, SQL, ReactJs
 - 📫 How to reach me: ...eniocarloss18@gmail.com
 
-<h1>Olá Pessoal sou um estudante de programação WeB!!</h1>
-<p>✨ Estou dando meus primeiros passoas na área de tecnologia</p>
+<h1>Hello everyone, I'm a Web programming student!!</h1>
+<p>✨I'm taking my first steps in the technology field</p>
 
 <!--
 **enioCarloss/eniocarloss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
