@@ -1,7 +1,7 @@
 # Enio Carlos 🐱‍👓
 *`Desenvolvedor fullStack`*
 Olá meu nome é Enio tenho 46 anos e moro na Bahia - Brasil, estudei o ensino médio e técnico em administração no colégio municipal Dr João Paim, fiz cursos ná área de tech voltado ao desenvolvimento Web.
-Atualmente trabalho com segurança eletronica mas busco continuiamente meu espaço e minha evolução profissional na carreira de Dev Web FullStack.
+Atualmente trabalho com segurança eletronica mas busco continuamente meu espaço e minha evolução profissional na carreira de Dev Web FullStack.
 
 
 ### 🤖 Linguagens e Tecnologias
